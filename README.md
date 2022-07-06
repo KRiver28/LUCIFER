@@ -35,10 +35,10 @@
 ### 데이터
 
 1. 크롤링
-   1. [NAVER](https://github.com/Younghyeon-Kim/Project/blob/master/%ED%81%AC%EB%A1%A4%EB%A7%81/NAVER_crawling.ipynb)
-   2. [Google](https://github.com/Younghyeon-Kim/Project/blob/master/%ED%81%AC%EB%A1%A4%EB%A7%81/google_crawling.ipynb)
+   1. [NAVER](https://github.com/KRiver28/LUCIFER/blob/main/%ED%81%AC%EB%A1%A4%EB%A7%81/NAVER_crawling.ipynb)
+   2. [Google](https://github.com/KRiver28/LUCIFER/blob/main/%ED%81%AC%EB%A1%A4%EB%A7%81/google_crawling.ipynb)
 
-2. [전처리](https://github.com/Younghyeon-Kim/Project/blob/master/%EC%A0%84%EC%B2%98%EB%A6%AC.ipynb)
+2. [전처리](https://github.com/KRiver28/LUCIFER/blob/main/%EC%A0%84%EC%B2%98%EB%A6%AC.ipynb)
 3. 토크나이징
 
 ### 모델 구축
@@ -63,7 +63,7 @@
 
 ### 모델 실행
 
-[코드](https://github.com/Younghyeon-Kim/Project/blob/master/LUCIFER_ver1.ipynb)
+[코드 바로가기](https://github.com/KRiver28/LUCIFER/blob/main/LUCIFER_ver1.ipynb)
 
 1. 토픽 분류
 2. 감성 평가
@@ -72,7 +72,7 @@
 
 ## Result
 
-[코드](https://github.com/Younghyeon-Kim/Project/blob/master/%EA%B2%B0%EA%B3%BC%EB%B6%84%EC%84%9D_%EC%BD%94%EB%93%9C%EC%A0%95%EB%A6%AC.ipynb)
+[코드 바로가기](https://github.com/KRiver28/LUCIFER/blob/main/%EA%B2%B0%EA%B3%BC%EB%B6%84%EC%84%9D_%EC%BD%94%EB%93%9C%EC%A0%95%EB%A6%AC.ipynb)
 
 1. WordCloud
 2. 토픽별 긍부정 문장 카운트
