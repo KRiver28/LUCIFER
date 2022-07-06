@@ -63,7 +63,7 @@
 
 ### 모델 실행
 
-[코드 바로가기](https://github.com/KRiver28/LUCIFER/blob/main/LUCIFER_ver1.ipynb)
+[코드 바로가기](https://github.com/KRiver28/LUCIFER/blob/main/LUCIFER_model.ipynb)
 
 1. 토픽 분류
 2. 감성 평가
@@ -72,7 +72,7 @@
 
 ## Result
 
-[코드 바로가기](https://github.com/KRiver28/LUCIFER/blob/main/%EA%B2%B0%EA%B3%BC%EB%B6%84%EC%84%9D_%EC%BD%94%EB%93%9C%EC%A0%95%EB%A6%AC.ipynb)
+[코드 바로가기](https://github.com/KRiver28/LUCIFER/blob/main/LUCIFER_model.ipynb)
 
 1. WordCloud
 2. 토픽별 긍부정 문장 카운트
