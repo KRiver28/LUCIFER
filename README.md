@@ -81,8 +81,8 @@
 5. 리뷰 키워드 검색
 6. 워터파크별 토픽점수 데이터프레임
 
-![image-20220628192241958](README/image-20220628192241958.png)
+<img src="README/image-20220628192241958.png" alt="image-20220628192241958" style="zoom:150%;" />
 
-![image-20220628192248989](README/image-20220628192248989.png)
+<img src="README/image-20220628192248989.png" alt="image-20220628192248989" style="zoom:150%;" />
 
-![image-20220628192256268](README/image-20220628192256268.png)
+<img src="README/image-20220628192256268.png" alt="image-20220628192256268" style="zoom:150%;" />
